@@ -530,6 +530,7 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
 "Assets/Scripts/MenuController.cs"
+"Assets/Scripts/NextButton.cs"
 -langversion:9.0
 
 /deterministic
