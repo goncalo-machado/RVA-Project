@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3651941336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58e48dfbed9fab7da0d63a2f56934714
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Textures/SCrim.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
+Dependencies: []

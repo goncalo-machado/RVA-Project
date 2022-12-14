@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4118828453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e15132184b850e80cdd66f3bb455228
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 723d7b972e72461205a935bff5e6bf42
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GIF Render Texture.renderTexture
+Dependencies: []

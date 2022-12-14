@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2954616725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 421ec0690fb9b448bf3351664784be2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58de8907785b09978c452d729368ac9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+Dependencies: []
